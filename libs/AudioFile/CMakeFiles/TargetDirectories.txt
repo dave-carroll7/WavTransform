@@ -1,0 +1,11 @@
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/CMakeFiles/rebuild_cache.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/CMakeFiles/edit_cache.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/CMakeFiles/test.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/examples/CMakeFiles/rebuild_cache.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/examples/CMakeFiles/edit_cache.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/examples/CMakeFiles/test.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/examples/CMakeFiles/Examples.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/tests/CMakeFiles/rebuild_cache.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/tests/CMakeFiles/edit_cache.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/tests/CMakeFiles/test.dir
+/Users/davecarroll/Projects/Audio/WavTransform/libs/AudioFile/tests/CMakeFiles/Tests.dir
